@@ -17,7 +17,7 @@
 <h1 align="start"> Contatos </h1>
 <a href = "leandrolaurenzette@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-   <a align="center" href="[([https://www.linkedin.com/in/leandro-laurenzette-3b03a2167/](https://www.linkedin.com/in/leandro-laurenzette-3b03a2167/))]" target="_blank">
+   <a align="center" href="https://www.linkedin.com/in/leandro-laurenzette-3b03a2167" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
