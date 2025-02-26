@@ -1,10 +1,10 @@
  <div align="center">
     <a href="https://github.com/leandrolauren">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolauren&layout=compact&langs_count=7&theme=transparent"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolauren&count_private=true&layout=compact&langs_count=8&theme=transparent"/>
   </div>
 
    <div align="center">    
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrolauren&show_icons=true&theme=transparent&include_all_commits=true&count_private=false&layout=compact"/>
+     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=leandrolauren&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&layout=compact"/>
    </div>
   
   
@@ -13,7 +13,7 @@
 </div>
 
 
-<div>
+<div> 
 <h1 align="start"> Contato </h1>
 
    <a align="center" href="https://www.linkedin.com/in/leandro-laurenzette-3b03a2167" target="_blank">
