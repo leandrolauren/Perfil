@@ -4,12 +4,12 @@
   </div>
 
    <div align="center">    
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrolauren&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&layout=compact"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrolauren&show_icons=true&theme=transparent&include_all_commits=true&count_private=false&layout=compact"/>
    </div>
   
   
 <div align="center" style="display: inline_block"><br>
-   <img src="https://skillicons.dev/icons?i=react,js,python,nodejs,nextjs,sqlserver" />
+   <img src="https://skillicons.dev/icons?i=react,js,python,nodejs,nextjs,sql" />
 </div>
 
 
