@@ -9,11 +9,11 @@
   
   
 <div align="center" style="display: inline_block"><br>
-   <img src="https://skillicons.dev/icons?i=react,js,python,nodejs,nextjs,sql" />
+   <img src="https://skillicons.dev/icons?i=react,python,docker,mysql,postgres,fastapi" />
 </div>
 
 
-
+<div>
 <h1 align="start"> Contato </h1>
 
    <a align="center" href="https://www.linkedin.com/in/leandro-laurenzette-3b03a2167" target="_blank">
